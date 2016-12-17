@@ -59,7 +59,7 @@ Javascript but the syntax doesn't matter for the moment, that's why block-based 
 
 ### How does this robot understand codes ?
 
-It has an Arduino!!!(card or wt) that understands codes.
+It has an Arduino that understands codes.
 
 ### What OS you are using ?
 
