@@ -59,11 +59,11 @@ Javascript but the syntax doesn't matter for the moment, that's why block-based 
 
 ### How does this robot understand codes ?
 
-It has an Arduino that understands codes.
+The Arduino board on it has a CPU that executes codes.
 
 ### What OS you are using ?
 
-Linux Ubuntu, with gnome-shell3 as a DE (Development Environment).
+Linux Ubuntu, with gnome-shell3 as a DE (Desktop Environment).
 
 
 ## Links
