@@ -4,7 +4,7 @@ A great day with our friends from [UDev](https://github.com/UdevCommunityDev), w
 
 We aimed to motivate, inspire and teach non-cs students and let them discover why we love this amazing field.
 
-And that what we get, most of the challenges were solved and explained by students, some of them were motivated to learn programming after discovering that that have that problem solving skills, and how easy it was to read codes even that it was their first time, then they saw some of the applications of programming in a **robot** , a [flappy bird game](https://github.com/Max00355/FlappyBird), and a webpage..
+And that's what we got, most of the challenges were solved and explained by the participants. Some of them were motivated to learn programming after discovering that they have problem solving skills, and how easy it was to read codes though it was their first time.Then they saw the execution of some applications of programming on a **robot** , a [flappy bird game](https://github.com/Max00355/FlappyBird), and a webpage.
 
 ## Going beyond hour of code
 
@@ -23,47 +23,47 @@ And for more useful resources and tutorials checkout [our awesome list](https://
 
 #### Why you programmers love dark editors ?
 
-We feel that it eases the stress on our eyes, and it looks beautiful :grin:
+We feel that it eases the stress on our eyes, and it looks beautiful :grin:.
 
 #### Can you use wordpad instead of this, and why you use Atom ?
 
-Of course you can, I just love Atom it makes life easier
+Of course you can, I just love Atom it makes life easier.
 
 ### What does the `var count = 0` do there ?
 
-It's a counter, the loop increases it until it rich a value where he stoppes
+It's a counter, the loop increases it until it riches a value where it stops.
 
-### We have `count<5` in our loop, why he reach the `5` ?
+### We have `count<5` in our loop, why it reaches the `5` ?
 
-We started counting from `0`, count from 0 to 4 :simple_smile: . That's why we tell people ``Programmers count from zero `` :bowtie:
+We started counting from `0`, count from 0 to 4 :simple_smile: . That's why we tell people ``Programmers count from zero `` :bowtie:.
 
-### How does he know that `notFinished()` in the game returns true or false ?
+### How does it know that `notFinished()` in the game returns true or false ?
 
-That's a function detailed in another part of our code, where she test if the *bird* reached the point or not and reply by a `true` or `false`
+That's a function detailed in another part of our code, where it tests if the *bird* reached the point or not and it replies by `true` or `false`.
 
 ### How's the real implementation of `notFinished()` function
 
-The *bird* is on a (x,y) point and the *pig* is on (x',y') the finished means that `x` matches `x'` and so on, and then Ilyes showed us an example with the ultrasonic sensor in the robot, and that notFinished means that he's far from the obstacle
+The *bird* is on a (x,y) point and the *pig* is on (x',y') the finished means that `x` matches `x'` and so on, and then Ilyes showed us an example with the ultrasonic sensor in the robot, and that notFinished means that it's far from the obstacle.
 
 ### What does the parentheses do in functions like `moveForward();` ?
 
-Sometimes in programming we write some reusable parts of code called functions, you saw them in maths like `log(x)` you can't see what's behind logarithm function you just give it a value, that's what we are doing here, sometimes functions took parameters, sometimes no..
+Sometimes in programming, we write some reusable parts of code called functions, you saw them in maths like `log(x)` you can't see what's behind logarithm function you just give it a value, that's what we are doing here, sometimes functions take parameters and sometimes no.
 
 ### What language we are using here ?
 
-Javascript but the syntax doesn't matter for the moment, that's why block-based programming is cool
+Javascript but the syntax doesn't matter for the moment, that's why block-based programming is cool.
 
 ### What is the name of this application we are using here ?
 
-[Scratch](https://scratch.mit.edu/) by MIT, and [Code.org](https://code.org) make their web version of it.
+[Scratch](https://scratch.mit.edu/) by MIT, and [Code.org](https://code.org) made their web version of it.
 
 ### How does this robot understand codes ?
 
-It have an Arduino that understand codes.
+It has an Arduino!!!(card or wt) that understands codes.
 
 ### What OS you are using ?
 
-Linux Ubuntu, with gnome-shell3 as a DE
+Linux Ubuntu, with gnome-shell3 as a DE (Development Environment).
 
 
 ## Links
